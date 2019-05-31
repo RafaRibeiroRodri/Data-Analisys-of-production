@@ -1,2 +1,2 @@
 # Data-Analisys-of-production
-Analise de dados de producao de uma empresa do setor de usinagem para realizacao de trabalho escolar
+Este programa foi feito por alunos, Rafael Ribeiro Rodrigues e Vitor Leandro Amorim, do curso de Analise e Desenvolvimento de Sistemas da Fatec de São José dos Campos, onde foram orientados pelo professor da materia de algoritimo, Fernando Masanori Ashikaga na qual foram analisados dados de controle de produção de uma empresa de usinagem, onde foram analisados tempo de produção, tempo de entrega, quantidade de peças a serem feitas, horas de projeto entre outras. Tal projeto tem como objetivo mostrar dados da empresa a respeito de seu controle. 
